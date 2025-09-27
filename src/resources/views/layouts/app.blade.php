@@ -8,7 +8,6 @@
   <title>Contact Form</title>
   <link rel="stylesheet" href="{{ asset('css/sanitize.css') }}" />
   @yield('css')
-  <link rel="stylesheet" href="{{ asset('css/common.css') }}" />
 </head>
 
 <body>
